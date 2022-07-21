@@ -1,4 +1,4 @@
-  <script>
+ 
  alert("script started");
 window.userloveData = window.userloveData || [];
 console.log(window.userloveData);
@@ -191,4 +191,4 @@ window.onload = async () => {
     }
   });
 };
-    </script>
+    
